@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>About Us </title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="../abcgrp.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Dela+Gothic+One&family=Doto:wght@100..900&family=Host+Grotesk:ital,wght@0,300..800;1,300..800&display=swap"
+        rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Dela+Gothic+One&family=Host+Grotesk:ital,wght@0,300..800;1,300..800&display=swap"
+        rel="stylesheet">
+    <link href="../css/button.css" rel="stylesheet">
+    <style>
+        h1 {
+            font-family: 'Doto';
+            font-size: 50px;
+        }
+
+        h2,
+        pre {
+            font-family: 'Host Grotesk';
+            font-size: 30px;
+        }
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        .logo {
+            margin-right: 1000px;
+            /* Adjust the margin as needed */
+        }
+
+        .alt {
+            margin-right: 40px;
+        }
+
+        .top {
+            margin-top: 40px;
+        }
+
+        li {
+            float: left;
+        }
+
+        .right {
+            align-items: right;
+        }
+
+        li a {
+            font-size: 40px;
+            display: block;
+            color: rgb(33, 33, 33);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-family: 'Dela Gothic One'
+        }
+
+        li a:hover {
+            background-color: rgb(197, 186, 186);
+        }
+
+        body {
+            zoom: 75%;
+        }
+    </style>
+</head>
+
+<body>
+    <ul>
+        <li class="logo"><a href="index.html"><img src="../abcgrp.png" height="125" width="187.5"></a></li>
+        <li class="alt , top"><a href="videos.html">Videos</a></li>
+        <li class="alt , top"><a href="aboutus.html">About Us</a></li>
+        <li class="top"><a href="signup.html">SignUp</a></li>
+    </ul>
+    <h1><b>About Us</b></h1><br>
+
+    <h2>Welcome to Abc Videos, the premier destination for entertainment enthusiasts! As part of the Abc Group, we are
+        dedicated to bringing you a diverse array of engaging video content that caters to all tastes and preferences.
+        Our platform offers a seamless streaming experience, featuring everything from the latest blockbuster movies to
+        classic favorites, original series, and exclusive documentaries.</h2><br><br>
+
+    <h1><b>Our Mission</b></h1><br><br>
+
+    <h2>At Abc Videos, our mission is to entertain, inform, and inspire our viewers. We strive to provide high-quality
+        content that not only captivates but also enriches the lives of our audience. We believe in the power of
+        storytelling and aim to connect people through shared experiences.</h2><br><br>
+
+    <h1><b>What We Offer</b></h1><br><br>
+
+    <h2>Diverse Content Library: Explore a vast collection of videos across various genres, including action, drama,
+        comedy, and more.
+
+        User -Friendly Interface: Our platform is designed for easy navigation, allowing you to find your favorite shows
+        and movies effortlessly.
+
+        Original Programming: Enjoy exclusive content produced by our talented team, offering fresh perspectives and
+        unique stories.
+
+        Community Engagement: Join a vibrant community of fellow viewers, share your thoughts, and participate in
+        discussions about your favorite content.</h2><br><br>
+
+    <h1><b>Why Choose Us?</b></h1><br><br>
+
+    <h2>Quality Streaming: Experience high-definition video streaming with minimal buffering, ensuring you never miss a
+        moment of your favorite shows.
+
+        Accessible Anytime, Anywhere: Whether you're at home or on the go, Abc Videos is available on multiple devices,
+        allowing you to watch your favorite content whenever you want.
+
+        Commitment to Innovation: We continuously update our platform with the latest technology and features to enhance
+        your viewing experience.</h2><br><br>
+
+    <h1><b>Join Us Today!</b></h1><br><br>
+
+    <h2>Become a part of the Abc Videos family and dive into a world of entertainment. Sign up now to start your journey
+        with us and discover the endless possibilities of video streaming!</h2><br><br>
+    <br><a href="aboutuscode.html"><button type="button">VIEW CODE OF ABOUT US!</button></a>
+</body>
+
+</html>
